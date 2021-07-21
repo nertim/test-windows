@@ -1,1 +1,1 @@
-FROM karajas/aspnethello
+FROM hello-world
